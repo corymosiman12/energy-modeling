@@ -1,0 +1,13 @@
+[BuildingSync.Translator.initialize] <1> File '/Users/cmosiman/Github/energy-modeling/files/test1.xml' does not valid against the BuildingSync schema
+[BuildingSync.Site.read_climate_zone] <0> Could not find a climate zone in the BuildingSync file.
+[BuildingSync.Site.read_climate_zone] <0> Could not find a climate zone in the BuildingSync file.
+[BuildingSync.Building.read_building_form_defaults] <0> 0.0 value for aspect ratio will be replaced with smart default for LargeOffice of 1.5.
+[BuildingSync.Building.read_building_form_defaults] <0> 0.0 value for floor height will be replaced with smart default for LargeOfficeof 13.0.
+[BuildingSync.Building.read_building_form_defaults] <0> 0.0 value for window to wall ratio will be replaced with smart default for LargeOffice of 0.15.
+[BuildingSync.Facility.get_standard_template] <-1> Using the following standard for default values DOE Ref Pre-1980.
+[openstudio.standards.standard] <-1> Using OpenStudio Standards version 0.2.11 with template DOE Ref Pre-1980_LargeOffice.
+[openstudio.standards.standard] <-1> Loading OpenStudio Standards data for DOE Ref Pre-1980
+[BuildingSync.BuildingSection.read_xml] <-1> Building Standard with template: DOE Ref Pre-1980_LargeOffice
+[BuildingSync.Facility.generate_baseline_osm] <-1> Info: There is/are 1 sites in this facility.
+[BuildingSync.GetBCLWeatherFile.download_weather_file] <1> Error, cannot find the EPW weather file with uid: 5ad83f40-edc7-0131-7b77-48e0eb16a403.  Please try a different weather file.
+[BuildingSync.GetBCLWeatherFile.download_design_day_file] <1> Error, cannot find local component for: 1fd3d630-edc5-0131-b802-48e0eb16a403.  Please try a different weather file.
